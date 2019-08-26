@@ -2,7 +2,7 @@
     .DESCRIPTION 
     Place this script at the root of the C directory >  C:\
     Open PowerShell.exe or Cmd.exe and type >  cd C:\
-                                            >  powershell.exe -ExecutionPolicy Bypass .\Client_Setup_Script.exe -one
+                                            >  powershell.exe -ExecutionPolicy Bypass .\Client_Setup_Script.exe
 
     Once the script executes it does the following:
         1. Configures IP address and Hostname, Joins host to the domain and Restarts the OS
