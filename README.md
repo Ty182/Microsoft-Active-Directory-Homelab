@@ -1,4 +1,4 @@
-# Lab-Automation
+# Microsoft Active Directory Homelab
 
 These two scripts allow for an easy and automated way to setup a home lab quick!
 
